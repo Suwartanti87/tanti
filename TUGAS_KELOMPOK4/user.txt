@@ -1,0 +1,5 @@
+username = password(user sebagai)
+sitir = sitir (admin)
+rahma = rahma (siswa) 
+andi = andi (staff)
+asri = asri (guru)
